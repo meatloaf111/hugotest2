@@ -1,0 +1,6 @@
+baseURL = "http://meatloaf111.github.io/hugotest2/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anybodyhome"
+canonifyurls = true
+
